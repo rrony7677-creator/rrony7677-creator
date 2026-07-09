@@ -1,6 +1,6 @@
 <!-- Banner Image: replace this link with your own banner (upload to your repo or use a hosted image) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Rrony%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Rrony%20Kabir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=55&descSize=18" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rrony</h1>
