@@ -28,7 +28,7 @@ I'm a passionate frontend web developer learning to build clean, responsive, and
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 **Tools**
@@ -60,11 +60,26 @@ I'm a passionate frontend web developer learning to build clean, responsive, and
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rrony7677-creator&show_icons=true&theme=default" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrony7677-creator&layout=compact&theme=default" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrony7677-creator&theme=default" width="70%" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rrony7677-creator&show_icons=true&theme=default&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rrony7677-creator&layout=compact&theme=default" width="48%" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rrony7677-creator&theme=default" width="70%" />
+</p>
+<!--
+NOTE: If these images still don't load, the free public stats servers
+are sometimes temporarily down/rate-limited. Options:
+1. Wait a few minutes and refresh the GitHub page (not a markdown preview tool).
+2. Deploy your own free instance of github-readme-stats on Vercel:
+   https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+   then replace the domain above with your own deployed URL.
+-->
